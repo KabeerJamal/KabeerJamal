@@ -34,7 +34,7 @@ I also enjoy **recognizing patterns and refactoring code**. I enjoy this because
 - Helped turn debugging from guesswork into a clear reasoning process  
 
 ### **Library Management System**  
-**Technologies**: HTML, CSS, JavaScript, Express.js, MySQL, MVC  
+**Technologies**: HTML, CSS, JavaScript, Express.js, MySQL  
 - Full-stack system for book cataloging, reservations, and role-based access  
 - Interactive frontend + backend workflows ensuring concurrency and rules enforcement  
 
