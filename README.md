@@ -1,12 +1,12 @@
 # 👋 Hello, this is Kabeer Jamal
 
-🎓 I am a recent Computer Science graduate from **Eindhoven University of Technology (TU/e)**, Netherlands.  
+🎓 Recent Computer Science graduate from **Eindhoven University of Technology (TU/e)**, Netherlands.  
 
 ## 💡 What I Enjoy About CS  
 
-I really enjoy **understanding how systems work under the hood**. I enjoy this because reading source code and tracing execution paths for me is like solving a puzzle, when system internals make sense, I stop guessing while debugging and start reasoning. Currently, I’m working on my **Under the Hood Series**. I have already explored how `npm start` works behind the scenes, and I am currently diving into `docker run` to explain its internal workflow.
+I really enjoy **understanding how systems work under the hood**, by reading source code and tracing execution paths until system internals make sense. This approach turns debugging from guesswork into reasoning. Currently, I am working on my **Under the Hood Series**. I have already explored how `npm start` works behind the scenes, and am currently diving into `docker run` to explain its internal workflow.
 
-I also enjoy **recognizing patterns and refactoring code**. I enjoy this because it allows me to take messy or repetitive code and turn it into something abstract, reusable, and readable, while keeping things simple and avoiding overengineering. In my **OpenLearn project**, I will be creating videos showing how I refactored code and improved structure, demonstrating the practical benefits of design patterns.  
+I also enjoy **recognizing patterns and refactoring code** because it allows me to take messy or repetitive code and turn it into something abstract, reusable, and readable, while keeping things simple and avoiding overengineering. In my **OpenLearn project**, I will be creating videos showing how I refactored code and improved structure, demonstrating the practical benefits of design patterns.  
 
 ---
 
