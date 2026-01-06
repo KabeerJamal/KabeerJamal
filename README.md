@@ -4,7 +4,7 @@
 
 ## 💡 What I Enjoy About CS  
 
-I really enjoy **understanding how systems work under the hood**, by reading source code and tracing execution paths until system internals make sense. This approach turns debugging from guesswork into reasoning. Currently, I am working on my **Under the Hood Series**. I have already explored how `npm start` works behind the scenes, and am currently diving into `docker run` to explain its internal workflow.
+I really enjoy **understanding how systems work under the hood**, by reading source code and tracing execution paths until system internals make sense. This approach turns debugging from guesswork into reasoning. Currently, I am working on my **Under the Hood Series**. I have already explored how `npm start` works behind the scenes, and am now diving into `docker run` to explain its internal workflow.
 
 I also enjoy **recognizing patterns and refactoring code** because it allows me to take messy or repetitive code and turn it into something abstract, reusable, and readable, while keeping things simple and avoiding overengineering. In my **OpenLearn project**, I will be creating videos showing how I refactored code and improved structure, demonstrating the practical benefits of design patterns.  
 
