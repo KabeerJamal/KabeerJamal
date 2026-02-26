@@ -12,7 +12,7 @@ I also enjoy **recognizing patterns and refactoring code** because it allows me 
 
 ## 🚀 Projects
 
-### **OpenLearn** (Ongoing, Web Development)  
+### **OpenLearn** (Web Development)  
 **Technologies**: React, Redux, Node.js, Express.js, PostgreSQL, AWS, Docker, Jest, Terraform  
 - Built a full-stack education platform following the complete SDLC  
 - Developed a responsive dashboard with reusable React components  
