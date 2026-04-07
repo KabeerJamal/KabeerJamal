@@ -8,9 +8,23 @@ I really enjoy **understanding how systems work under the hood**, by reading sou
 
 I also enjoy **recognizing patterns and refactoring code** because it allows me to take messy or repetitive code and turn it into something abstract, reusable, and readable, while keeping things simple and avoiding overengineering. In my **OpenLearn project**, I will be creating videos showing how I refactored code and improved structure, demonstrating the practical benefits of design patterns.  
 
+Through my projects, I have also learned how backend systems behave under load, and more importantly, that in system design there is rarely a single “correct” solution. Different architectures, technologies, and patterns each come with trade-offs, and the right choice always depends on the specific problem and use case.
+
+I enjoy designing systems by first understanding the requirements and constraints, then reasoning through different approaches to arrive at a solution that fits the context, rather than assuming one universal best design.
+
 ---
 
 ## 🚀 Projects
+
+## High-Concurrency Inventory & Allocation System (Ongoing)
+
+**Technologies:** Go (Golang), Kafka (Redpanda), Redis (Lua), PostgreSQL, Docker, Prometheus, Grafana, k6
+
+- Built a high-throughput ingestion system using Go and Kafka to handle concurrent traffic and prevent database overload through asynchronous processing  
+- Implemented atomic inventory reservation using Redis Lua scripts to prevent overselling and race conditions under high load  
+- Designed a Saga-based workflow to ensure distributed consistency and automated recovery during failure scenarios (e.g. payment failures)  
+- Applied idempotency and Dead Letter Queue (DLQ) patterns to ensure data integrity and prevent duplicate or lost processing  
+- Added load testing and observability using k6, Prometheus, and Grafana to validate system performance under stress  
 
 ### **OpenLearn** (Web Development)  
 **Technologies**: React, Redux, Node.js, Express.js, PostgreSQL, AWS, Docker, Jest, Terraform  
