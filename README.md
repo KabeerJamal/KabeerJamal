@@ -4,13 +4,15 @@
 
 ## 💡 What I Enjoy About CS  
 
-I really enjoy **understanding how systems work under the hood**, by reading source code and tracing execution paths until system internals make sense. This approach turns debugging from guesswork into reasoning. Currently, I am working on my **Under the Hood Series**. I have already explored how `npm start` works behind the scenes, and am now diving into how `docker CLI` works to explain its internal workflow.
+I really enjoy **understanding how systems work under the hood**, by reading source code and tracing execution paths until system internals make sense. This approach turns debugging from guesswork into reasoning. I document these explorations in my **Under the Hood Series**, where I've already broken down exactly what happens when you run `npm start`.
 
-I also enjoy **recognizing patterns and refactoring code** because it allows me to take messy or repetitive code and turn it into something abstract, reusable, and readable, while keeping things simple and avoiding overengineering. In my **OpenLearn project**, I will be creating videos showing how I refactored code and improved structure, demonstrating the practical benefits of design patterns.  
+I also enjoy **recognizing patterns and refactoring code** because it allows me to take messy or repetitive code and turn it into something abstract, reusable, and readable, while keeping things simple and avoiding overengineering.
 
 Through my projects, I have also learned how backend systems behave under load, and more importantly, that in system design there is rarely a single “correct” solution. Different architectures, technologies, and patterns each come with trade-offs, and the right choice always depends on the specific problem and use case.
 
 I enjoy designing systems by first understanding the requirements and constraints, then reasoning through different approaches to arrive at a solution that fits the context, rather than assuming one universal best design.
+
+Also on the backend side, what excites me isn't just getting the happy path working, it is thinking through what can go wrong, handling failure scenarios preemptively, and testing them thoroughly.
 
 ---
 
