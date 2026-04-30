@@ -18,7 +18,7 @@ Also on the backend side, what excites me isn't just getting the happy path work
 
 ## 🚀 Projects
 
-## [High-Concurrency Inventory & Allocation System (Ongoing)](https://github.com/KabeerJamal/flash-sale-orchestrater)
+### [High-Concurrency Inventory & Allocation System (Ongoing)](https://github.com/KabeerJamal/flash-sale-orchestrater)
 
 **Technologies:** Go (Golang), Kafka (Redpanda), Redis (Lua), PostgreSQL, Docker, Prometheus, Grafana, k6
 
