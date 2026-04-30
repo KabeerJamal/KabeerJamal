@@ -18,7 +18,7 @@ Also on the backend side, what excites me isn't just getting the happy path work
 
 ## 🚀 Projects
 
-## High-Concurrency Inventory & Allocation System (Ongoing)
+## [High-Concurrency Inventory & Allocation System (Ongoing)](https://github.com/KabeerJamal/flash-sale-orchestrater)
 
 **Technologies:** Go (Golang), Kafka (Redpanda), Redis (Lua), PostgreSQL, Docker, Prometheus, Grafana, k6
 
@@ -28,7 +28,7 @@ Also on the backend side, what excites me isn't just getting the happy path work
 - Applied idempotency and Dead Letter Queue (DLQ) patterns to ensure data integrity and prevent duplicate or lost processing  
 - Added load testing and observability using k6, Prometheus, and Grafana to validate system performance under stress  
 
-### **OpenLearn** (Web Development)  
+### [**OpenLearn** (Web Development)](https://github.com/KabeerJamal/OpenLearn)  
 **Technologies**: React, Redux, Node.js, Express.js, PostgreSQL, AWS, Docker, Jest, Terraform  
 - Built a full-stack education platform following the complete SDLC  
 - Developed a responsive dashboard with reusable React components  
@@ -36,28 +36,30 @@ Also on the backend side, what excites me isn't just getting the happy path work
 - Containerized the application with Docker & deployed on AWS using Terraform  
 - Writing automated tests for reliability & CI/CD pipelines  
 
-### **Navis (Final Year Project)**  
+### [**Navis (Final Year Project)**](https://github.com/KabeerJamal/Navis-Team-Project)  
 **Technologies**: TypeScript, React, Redux, Node.js, PostgreSQL, Docker, Kubernetes  
 - Browser-based IDE for Zephyr RTOS firmware  
 - Contributed across frontend and backend teams  
 - Gained a understanding of containerized build systems while collaborating with teammates on orchestrating isolated build workloads
 - Bridged technical and documentation teams, translating complex details into clear, accurate project documentation
 
-### **Under the Hood Series: npm start Explained**  
+### [**Under the Hood Series: npm start Explained**](https://github.com/KabeerJamal/npm-Run-Start-Behind-the-scenes)  
 **Technologies**: Linux, Node.js, npm, webpack, process management  
 - Studied the full execution flow of commands like `npm start`  
 - Created videos showing process creation, CLI resolution, and debugging strategies  
 - Helped turn debugging from guesswork into a clear reasoning process  
 
-### **Library Management System**  
+<!--
+### [**Library Management System**](https://github.com/KabeerJamal/LibraryManagementSystem)  
 **Technologies**: HTML, CSS, JavaScript, Express.js, MySQL  
 - Full-stack system for book cataloging, reservations, and role-based access  
 - Interactive frontend + backend workflows ensuring concurrency and rules enforcement  
 
-### **Freelancer HQ+ Website Testing**  
+### [**Freelancer HQ+ Website Testing**](https://github.com/KabeerJamal/Freelancer-HQ-Testing-Report)  
 **Technologies**: QA, Manual Testing, Chrome DevTools  
 - Executed 89 test cases across registration, login, messaging, and search  
 - Documented 14 defects with actionable recommendations & visual evidence  
+-->
 
 ---
 
@@ -68,13 +70,12 @@ I love explaining concepts, mentoring, and improving my soft skills. Teaching, w
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend**: JavaScript, TypeScript, React, Redux, HTML, CSS  
-**Backend**: Node.js, Express.js, REST APIs, PostgreSQL, MySQL, MongoDB  
-**DevOps/Tools**: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS, Terraform  
-**Testing**: Jest, Enzyme, Selenium, JMeter, Postman  
-**Other**: Firebase, Python, PyTorch  
-**Soft Skills**: Technical communication, teaching, collaboration  
+**Languages**: Go (Golang), Java, TypeScript, Python, SQL
+**Backend**: Node.js, Express.js, RESTful APIs, gRPC, Kafka (Redpanda), Redis, Event-Driven Systems
+**Databases**: PostgreSQL, MySQL, Data Modeling, Query Optimization
+**Cloud & DevOps**: AWS, Docker, Kubernetes, Linux, Git, CI/CD (GitHub Actions), Terraform
+**System Design**: Distributed Systems, Microservices, Scalability, Fault Tolerance, High-Concurrency Systems
+**Testing**: Unit Testing, Integration Testing, Load Testing (k6), 
 
 ---
 
