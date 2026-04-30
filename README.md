@@ -70,11 +70,11 @@ I love explaining concepts, mentoring, and improving my soft skills. Teaching, w
 ---
 
 ## 🛠️ Tech Stack
-**Languages**: Go (Golang), Java, TypeScript, Python, SQL
-**Backend**: Node.js, Express.js, RESTful APIs, gRPC, Kafka (Redpanda), Redis, Event-Driven Systems
-**Databases**: PostgreSQL, MySQL, Data Modeling, Query Optimization
-**Cloud & DevOps**: AWS, Docker, Kubernetes, Linux, Git, CI/CD (GitHub Actions), Terraform
-**System Design**: Distributed Systems, Microservices, Scalability, Fault Tolerance, High-Concurrency Systems
+**Languages**: Go (Golang), Java, TypeScript, Python, SQL 
+**Backend**: Node.js, Express.js, RESTful APIs, gRPC, Kafka (Redpanda), Redis, Event-Driven Systems 
+**Databases**: PostgreSQL, MySQL, Data Modeling, Query Optimization 
+**Cloud & DevOps**: AWS, Docker, Kubernetes, Linux, Git, CI/CD (GitHub Actions), Terraform 
+**System Design**: Distributed Systems, Microservices, Scalability, Fault Tolerance, High-Concurrency Systems 
 **Testing**: Unit Testing, Integration Testing, Load Testing (k6), 
 
 ---
